@@ -10,7 +10,7 @@ public class practice2 {
 		for(int i=c.length-1; i>=0; i--) {
 			reversedName+=c[i];
 		}
-		System.out.println(reversedName);
+		System.out.println("Reversed name is: " + reversedName);
 
 	}
 
